@@ -20,7 +20,7 @@ print(people.affiche())
 #people2=Indi(0, 3, "Roberta")
 #print(people2.affiche())
 
-j'aime pas les colabo
+
 
 
 
